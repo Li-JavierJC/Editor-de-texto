@@ -1,0 +1,11 @@
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Aplicacion_1\Aplicacion_1\bin\Debug\Aplicacion_1.exe.config
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Aplicacion_1\Aplicacion_1\obj\Debug\Aplicacion_1.exe
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Aplicacion_1\Aplicacion_1\obj\Debug\Aplicacion_1.pdb
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Aplicacion_1\Aplicacion_1\bin\Debug\Aplicacion_1.exe
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Aplicacion_1\Aplicacion_1\bin\Debug\Aplicacion_1.pdb
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Aplicacion_1\Aplicacion_1\obj\Debug\Aplicacion_1.Form1.resources
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Aplicacion_1\Aplicacion_1\obj\Debug\Aplicacion_1.Form2.resources
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Aplicacion_1\Aplicacion_1\obj\Debug\Aplicacion_1.Properties.Resources.resources
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Aplicacion_1\Aplicacion_1\obj\Debug\Editor_TXT.csproj.GenerateResource.Cache
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Aplicacion_1\Aplicacion_1\obj\Debug\Editor_TXT.csprojAssemblyReference.cache
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Aplicacion_1\Aplicacion_1\obj\Debug\Editor_TXT.csproj.CoreCompileInputs.cache

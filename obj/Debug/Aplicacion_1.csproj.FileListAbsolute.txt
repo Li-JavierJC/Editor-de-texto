@@ -1,0 +1,10 @@
+c:\users\javier\documents\visual studio 2013\Projects\Aplicacion_1\Aplicacion_1\bin\Debug\Aplicacion_1.exe.config
+c:\users\javier\documents\visual studio 2013\Projects\Aplicacion_1\Aplicacion_1\bin\Debug\Aplicacion_1.exe
+c:\users\javier\documents\visual studio 2013\Projects\Aplicacion_1\Aplicacion_1\bin\Debug\Aplicacion_1.pdb
+c:\users\javier\documents\visual studio 2013\Projects\Aplicacion_1\Aplicacion_1\obj\Debug\Aplicacion_1.csprojResolveAssemblyReference.cache
+c:\users\javier\documents\visual studio 2013\Projects\Aplicacion_1\Aplicacion_1\obj\Debug\Aplicacion_1.Form1.resources
+c:\users\javier\documents\visual studio 2013\Projects\Aplicacion_1\Aplicacion_1\obj\Debug\Aplicacion_1.Properties.Resources.resources
+c:\users\javier\documents\visual studio 2013\Projects\Aplicacion_1\Aplicacion_1\obj\Debug\Aplicacion_1.csproj.GenerateResource.Cache
+c:\users\javier\documents\visual studio 2013\Projects\Aplicacion_1\Aplicacion_1\obj\Debug\Aplicacion_1.exe
+c:\users\javier\documents\visual studio 2013\Projects\Aplicacion_1\Aplicacion_1\obj\Debug\Aplicacion_1.pdb
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Aplicacion_1\Aplicacion_1\obj\Debug\Aplicacion_1.Form2.resources
